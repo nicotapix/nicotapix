@@ -1,7 +1,7 @@
 # Hola, soy Nico
 
 Estudiante de Ingeniería Informática en Colombia.
-Aprendiendo desarrollo frontend desde cero.
+Aprendiendo desarrollo frontend.
 
 ## Lo que estoy aprendiendo
 - Git & GitHub
