@@ -1,4 +1,4 @@
-# Hola, soy Nico
+# Hola, soy Nicx
 
 Estudiante de Ingeniería Informática en Colombia.
 Aprendiendo desarrollo frontend.
@@ -9,7 +9,7 @@ Aprendiendo desarrollo frontend.
 - JavaScript
 - React
 
-## Mi meta
+## Meta
 Convertirme en desarrollador frontend profesional.
 
 <!--
