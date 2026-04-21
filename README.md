@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hola, soy Nico
+
+Estudiante de Ingeniería Informática en Colombia.
+Aprendiendo desarrollo frontend desde cero.
+
+## Lo que estoy aprendiendo
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- React
+
+## Mi meta
+Convertirme en desarrollador frontend profesional.
 
 <!--
 **nicotapix/nicotapix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
